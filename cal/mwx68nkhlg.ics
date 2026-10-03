@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Saint Rafka Maronite Church//Newsletter//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mwx68nkhlg@saintrafka-newsletter
+DTSTAMP:20261003T042428Z
+DTSTART:20261023T193000
+DTEND:20261023T203000
+SUMMARY:Date Night: An Opportunity for Married Couples to Dine\, Laugh & 
+ Reconnect
+LOCATION:Saint Rafka Church Hall\, 32765 Lyndon St Livonia\, MI 48154
+DESCRIPTION:All married couples are invited to Date Night here at St. Raf
+ ka Church on Friday\, October 23rd at 7:30 PM. This evening will be an o
+ pportunity to dine\, laugh\, and reconnect. The evening will include din
+ ner\, games\, communication exercises\, and an opportunity to celebrate 
+ the gift of marriage. The cost is $30/couple. Please RSVP to Maya Lubus 
+ by Sunday\, October 18th. Payments can be made to Maya after Sunday Litu
+ rgy or online through the link on our website.
+END:VEVENT
+END:VCALENDAR
