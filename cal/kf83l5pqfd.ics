@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Saint Rafka Maronite Church//Newsletter//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:kf83l5pqfd@saintrafka-newsletter
+DTSTAMP:20261003T042426Z
+DTSTART:20261016T190000
+DTEND:20261016T200000
+SUMMARY:Home Bible Study: Studying God’s Word Together
+LOCATION:41837 Rayburn Dr.\, Northville MI 48168
+DESCRIPTION:Looking to deepen your faith and grow closer to the Lord? Joi
+ n us as we gather for a warm and welcoming small-group home Bible study 
+ led by our pastor\, Abouna Rodrigue. Together\, we’ll explore Scripture\
+ , ask questions\, and encourage one another as we walk with Jesus. Wheth
+ er you’re new to the Bible or have been studying it for years\, you are 
+ warmly welcome!\n\nWhen: Friday\, October 16\, 2026 at 7:00 p.m. \nHoste
+ d by: Samir and Mona Matar - 41837 Rayburn Dr.\, Northville MI 48168\nSp
+ ace is limited to 25 people\, so please RSVP by contacting the church of
+ fice or Mona Matar by Oct 14.\nBiblical text will
+END:VEVENT
+END:VCALENDAR
