@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Saint Rafka Maronite Church//Newsletter//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1m57p635ujv@saintrafka-newsletter
+DTSTAMP:20261009T021230Z
+DTSTART:20261024T121500
+DTEND:20261024T131500
+SUMMARY:New Altar Server Training
+LOCATION:Saint Rafka Church\, 32765 Lyndon Street\, Livonia\, MI 48154
+DESCRIPTION:On Saturday\, Oct 24 @ 12:15 PM\, we will have an altar serve
+ r training session for new altar servers. All children who have made the
+ ir First Communion by this date are invited to come to the training and 
+ become altar servers.
+END:VEVENT
+END:VCALENDAR
