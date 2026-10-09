@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Saint Rafka Maronite Church//Newsletter//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1quuaagtg8y@saintrafka-newsletter
+DTSTAMP:20261009T021229Z
+DTSTART:20261017T190000
+DTEND:20261017T200000
+SUMMARY:MYA Fire and Film
+LOCATION:Saint Rafka Church\, 32765 Lyndon Street\, Livonia\, MI 48154
+DESCRIPTION:If you are a young adult\, We warmly invite you to our MYA Fi
+ re and Film get together in the Rectory's backyard. Join us for an eveni
+ ng of community\, good conversation\, and relaxation as we gather around
+  the fire for a movie night under the stars.\nEvent Details:Date: Saturd
+ ay\, October 17th\nTime: 7:00 PM\nWhat to bring: A blanket and your favo
+ rite movie snacks to share!\nWhether you are a regular at our Maronite Y
+ oung Adult events or checking us out for the first time\, we would love 
+ to see you there. Please RSVP below by October 14th so we can plan for f
+ ood and refreshments. For location details o
+END:VEVENT
+END:VCALENDAR
