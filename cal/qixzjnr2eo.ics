@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Saint Rafka Maronite Church//Newsletter//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:qixzjnr2eo@saintrafka-newsletter
+DTSTAMP:20261009T021231Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:MYO Toy Drive
+DESCRIPTION:Our St. Rafka MYO is hosting a toy drive to support children 
+ in foster care for Christmas this year through Macomb Foster Closet. New
+  & unwrapped toys for any age (infant - teenager) can be dropped off in 
+ the donation bin in the social hall starting Sunday\, October 25th. Plea
+ se no used toys\, and no nerf guns or similar toys. Toys will be collect
+ ed until Thursday\, December 3rd. Please contact Linda Akouri\, Rania Ay
+ oub\, or the church office with any questions.
+END:VEVENT
+END:VCALENDAR
