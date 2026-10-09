@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Saint Rafka Maronite Church//Newsletter//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1x6i4juogx1@saintrafka-newsletter
+DTSTAMP:20261009T021228Z
+DTSTART:20261025T130000
+DTEND:20261025T140000
+SUMMARY:MYO Saj Breakfast Fundraiser
+LOCATION:Saint Rafka Church\, 32765 Lyndon Street\, Livonia\, MI 48154
+DESCRIPTION:On Sunday\, October 25th after Divine Liturgy our MYO will be
+  hosting a breakfast fundraiser to help support their activities and off
+ set the transportation costs to attend the regional and national retreat
+ s. The cost is $10 per person. Tickets will be available after Liturgy o
+ n Sunday\, Oct. 11th and Oct. 18th or at the door. Please see Alice Boda
+ gh\, Layla Richa\, Rania Ayoub or Adele Tarabay to purchase tickets or w
+ ith questions.
+END:VEVENT
+END:VCALENDAR
