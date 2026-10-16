@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Saint Rafka Maronite Church//Newsletter//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1ybbd8429ng@saintrafka-newsletter
+DTSTAMP:20261016T021616Z
+DTSTART:20261018T113000
+DTEND:20261018T123000
+SUMMARY:Second Collection for World Mission Sunday
+DESCRIPTION:During 11:30 AM Liturgy.\nThis collection supports the Church
+ ’s evangelizing work to missionary areas where the Gospel is being procl
+ aimed for the first time\, as well as to places where the Church is too 
+ young\, persecuted or poor to sustain herself.
+END:VEVENT
+END:VCALENDAR
