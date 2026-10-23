@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Saint Rafka Maronite Church//Newsletter//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1spljscs8ur@saintrafka-newsletter
+DTSTAMP:20261023T161243Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Coffee Hour
+DESCRIPTION:We thank Bechara & Milade Kobrossi  for sponsoring our coffee
+  hour this weekend.\n\nIf your family would like to sponsor our coffee h
+ our for an upcoming weekend\, the cost is $150. Your family will be reco
+ gnized that weekend for your support. Please contact the church office w
+ ith the Sunday you would like to sponsor\, or you can sponsor online on 
+ our church website. When sponsoring online\, please enter the date you w
+ ould like to sponsor our coffee hour in the text box.
+END:VEVENT
+END:VCALENDAR
