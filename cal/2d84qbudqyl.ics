@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Saint Rafka Maronite Church//Newsletter//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2d84qbudqyl@saintrafka-newsletter
+DTSTAMP:20261023T161245Z
+DTSTART:20261101T124500
+DTEND:20261101T134500
+SUMMARY:Trunk or Treat
+LOCATION:Saint Rafka Church\, 32765 Lyndon Street\, Livonia\, MI 48154
+DESCRIPTION:On Sunday\, Nov 1st\, after Liturgy all children are invited 
+ to come trick or treat in the church parking lot. We encourage all child
+ ren to come dressed up as their favorite saint that day.\nPlease bring c
+ andy to hand out from the trunk of your car. Trunk decorations are encou
+ raged and will add to the fun!\nWe hope you and your families will join 
+ us for some Halloween fun!
+END:VEVENT
+END:VCALENDAR
