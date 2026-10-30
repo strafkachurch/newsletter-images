@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Saint Rafka Maronite Church//Newsletter//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2113cb3a21e@saintrafka-newsletter
+DTSTAMP:20261030T154806Z
+DTSTART:20261114T180000
+DTEND:20261114T190000
+SUMMARY:Potluck Dinner & Game Night
+LOCATION:Saint Rafka Church\, 32765 Lyndon Street\, Livonia\, MI 48154
+DESCRIPTION:Please join us on Saturday\, November 14th @ 6PM for our fami
+ ly potluck dinner and game night! Please bring a dish to share for dinne
+ r\, BYOB\, and bring your family's favorite game to play!
+END:VEVENT
+END:VCALENDAR
