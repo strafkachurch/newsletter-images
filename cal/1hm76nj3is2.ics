@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Saint Rafka Maronite Church//Newsletter//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1hm76nj3is2@saintrafka-newsletter
+DTSTAMP:20261030T155400Z
+DTSTART:20261122T121500
+DTEND:20261122T131500
+SUMMARY:Thanksgiving Outreach Weekend
+DESCRIPTION:Our  annual Thanksgiving Outreach Weekend will be Saturday\, 
+ November 21st & Sunday\, November 22nd. We will be making sack lunches t
+ o be donated to the Hope Clinic. Our goal is to make at least 1\,000 mea
+ ls. We will assemble the lunch bags during the following events that wee
+ kend: Religious Education & Arabic School students Saturday\, Nov. 21st 
+ @ 12:15 PM\, and our MYO along with any parishioners who would like to p
+ articipate on Sunday\, Nov. 22nd after Divine Liturgy.\nWe are now colle
+ cting food donations to make the snack packs that weekend. If you would 
+ like to donate\, please drop off items from
+END:VEVENT
+END:VCALENDAR
