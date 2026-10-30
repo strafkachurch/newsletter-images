@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Saint Rafka Maronite Church//Newsletter//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1041m6thkg7@saintrafka-newsletter
+DTSTAMP:20261030T181444Z
+DTSTART:20261211T193000
+DTEND:20261211T203000
+SUMMARY:Ladies Night Ugly Christmas Sweater Party
+DESCRIPTION:All ladies are invited to our Ladies' Night Ugly Christmas Sw
+ eater Party & potluck dinner on  Friday\, December 11th at 7:30 PM. Join
+  us for fun\, music and lots of laughs! Tickets are $10.Please bring a d
+ ish to share for dinner\, BYOB\, and dress to impress in your ugliest Ch
+ ristmas sweater! Please RSVP to Maya Lubus.
+END:VEVENT
+END:VCALENDAR
