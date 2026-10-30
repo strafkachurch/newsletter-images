@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Saint Rafka Maronite Church//Newsletter//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:qtlsxpt0e5@saintrafka-newsletter
+DTSTAMP:20261030T154805Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Mercy Meal Sunday\, November 1st
+DESCRIPTION:Everyone is invited to join the Boutros and Mourani Families 
+ after Liturgy this Sunday\, November 1st for a mercy meal in memory of M
+ arwan Boutros & Majida Saad and Afife Farah.
+END:VEVENT
+END:VCALENDAR
