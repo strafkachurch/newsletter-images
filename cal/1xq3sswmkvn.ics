@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Saint Rafka Maronite Church//Newsletter//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1xq3sswmkvn@saintrafka-newsletter
+DTSTAMP:20261030T154808Z
+DTSTART:20261120T190000
+DTEND:20261120T200000
+SUMMARY:Home Bible Study: Studying God’s Word Together
+LOCATION:4695 Clover Rd.\, Canton\, MI 48188
+DESCRIPTION:Looking to deepen your faith and grow closer to the Lord? Joi
+ n us as we gather for a warm and welcoming small-group home Bible study 
+ led by our pastor\, Abouna Rodrigue. Together\, we’ll explore Scripture\
+ , ask questions\, and encourage one another as we walk with Jesus. Wheth
+ er you’re new to the Bible or have been studying it for years\, you are 
+ warmly welcome!\n\nWhen: Friday\, November 20\, 2026 at 7:00 p.m.\nHoste
+ d by: Andre & Kinda Atie - 4695 Clover Rd.\, Canton\, MI 48188\nSpace is
+  limited to 25 people\, so please RSVP using the link below by November 
+ 18th\nBiblical text will be provided\, but feel fre
+END:VEVENT
+END:VCALENDAR
