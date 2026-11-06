@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Saint Rafka Maronite Church//Newsletter//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1im85by552w@saintrafka-newsletter
+DTSTAMP:20261106T211636Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Church Website Now Available in Arabic
+DESCRIPTION:Our St. Rafka Church website is now available in both English
+  & Arabic! Click the link below to view the new Arabic version of our we
+ bsite.\n\nأصبح موقع كنيسة القديسة رفقا متاحاً الآن باللغتين الإنجليزية و
+ العربية! اضغط على الرابط أدناه للاطلاع على النسخة العربية الجديدة من موق
+ عنا.
+END:VEVENT
+END:VCALENDAR
