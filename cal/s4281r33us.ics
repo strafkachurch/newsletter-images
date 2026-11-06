@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Saint Rafka Maronite Church//Newsletter//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:s4281r33us@saintrafka-newsletter
+DTSTAMP:20261106T155737Z
+DTSTART:20261213T130000
+DTEND:20261213T140000
+SUMMARY:Save the Date - Breakfast with Santa
+LOCATION:Saint Rafka Church\, 32765 Lyndon Street\, Livonia\, MI 48154
+DESCRIPTION:Save the date! Breakfast with Santa will be Sunday\, December
+  13th after 11:30 AM Divine Liturgy. Full details and ticket information
+  will be available soon.
+END:VEVENT
+END:VCALENDAR
