@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Saint Rafka Maronite Church//Newsletter//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sh33sx003n@saintrafka-newsletter
+DTSTAMP:20261113T162543Z
+DTSTART:20261213T130000
+DTEND:20261213T140000
+SUMMARY:Breakfast with Santa
+LOCATION:Saint Rafka Church\, 32765 Lyndon Street\, Livonia\, MI 48154
+DESCRIPTION:Breakfast with Santa will be Sunday\, December 13th after 11:
+ 30 AM Divine Liturgy. Tickets will be on sale beginning this Sunday\, No
+ vember 15th after Divine Liturgy. Please see Rania Ayoub\, Abeer Ayoub o
+ r Diana Elkassouf to purchase your tickets.\n\nThe cost is $20 for adult
+ s and $10 for children under 12.\n\nTickets can also be purchased from t
+ he church office during office hours or online beginning Wednesday\, Nov
+ . 18th.
+END:VEVENT
+END:VCALENDAR
