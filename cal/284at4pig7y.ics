@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Saint Rafka Maronite Church//Newsletter//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:284at4pig7y@saintrafka-newsletter
+DTSTAMP:20261113T162547Z
+DTSTART:20261122T113000
+DTEND:20261122T123000
+SUMMARY:MYO Liturgy
+LOCATION:Saint Rafka Church\, 32765 Lyndon Street\, Livonia\, MI 48154
+DESCRIPTION:Our next Maronite Youth Organization (MYO) Liturgy of the yea
+ r will be Sunday\, November 22nd. Our Youth ages 12-17 will actively par
+ ticipate in the Liturgy this weekend and will also serve as greeters\, u
+ shers\, readers\, choir members and altar servers. Immediately after Lit
+ urgy the MYO will be participating in our Thanksgiving Outreach Project.
+  Please contact Linda Akouri or Rania Ayoub with any questions.
+END:VEVENT
+END:VCALENDAR
