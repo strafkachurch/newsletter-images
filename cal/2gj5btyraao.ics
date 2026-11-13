@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Saint Rafka Maronite Church//Newsletter//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2gj5btyraao@saintrafka-newsletter
+DTSTAMP:20261113T162546Z
+DTSTART:20261219T190000
+DTEND:20261219T200000
+SUMMARY:St. Sharbel Movie Viewing
+LOCATION:Saint Rafka Church\, 32765 Lyndon Street\, Livonia\, MI 48154
+DESCRIPTION:We are excited to announce that on Friday\, Dec. 18th & Satur
+ day\, Dec. 19th at 7:00 PM we will be showing the new St. Sharbel movie 
+ here at St. Rafka Church. The movie about St. Sharbel's life is in Arabi
+ c and will have English subtitles. No photos\, videos\, or recordings of
+  any kind will be allowed during the movie screening. Tickets are $20/pe
+ rson and can be purchased after Sunday Liturgies\, or online at the link
+  below. Please contact the church office with any questions.
+END:VEVENT
+END:VCALENDAR
