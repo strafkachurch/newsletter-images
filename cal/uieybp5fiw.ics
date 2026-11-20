@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Saint Rafka Maronite Church//Newsletter//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:uieybp5fiw@saintrafka-newsletter
+DTSTAMP:20261120T161524Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Poinsettia Dedications
+DESCRIPTION:Honor a loved one this Christmas by donating a Poinsettia pla
+ nt to be placed in his or her name around the altar. These Poinsettias w
+ ill be used to decorate the Sanctuary for our Christmas Liturgies and na
+ mes will be published in our newsletter. Thank you for your generosity.\
+ n\nIn Memory Of\nMr. Abe Aon by his family\nMr. & Mrs Alfred Issa by the
+ ir daughter Souhaila Aon\nMr. & Mrs. Abdallah Aon by their daughter-in-l
+ aw Souhaila Aon\nMiss Emily Abid by Mrs. Souhaila Aon\n\nIn Thanksgiving
+  For\nMr. & Mrs. Michael Foreman & Family by Mrs. Souhaila Aon\nNatalie 
+ Aon\, Abe Aon & Family by Mrs. Souhaila Aon
+END:VEVENT
+END:VCALENDAR
